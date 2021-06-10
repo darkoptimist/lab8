@@ -24,4 +24,3 @@ skills.forEach(function(item, i, skills){
 	
 });
 
-console.log(skillBar);
