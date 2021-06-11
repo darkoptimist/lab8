@@ -1,0 +1,32 @@
+[
+	{
+		"skillName": "HTML", 
+		"level": 60,
+		"cssClass": "skill-html"
+		},
+	{
+		"skillName": "JS",
+		"level": 30, 
+		"cssClass": "skill-js"
+		},
+	{
+		"skillName": "C++", 
+		"level": 70,
+		"cssClass": "skill-cpp"
+		},
+	{
+		"skillName": "Math",
+		"level": 80, 
+		"cssClass": "skill-math"
+		},
+	{
+		"skillName": "Python",
+		"level": 50, 
+		"cssClass": "skill-python"
+		},
+	{
+		"skillName": "SQL",
+		"level": 50, 
+		"cssClass": "skill-sql"
+	}
+]
