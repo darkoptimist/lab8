@@ -9,7 +9,7 @@ const skills = [
 
 const skillBar = document.querySelector('.skills-list');
 
-skills.forEach((item) => {
+skills.forEach(item => {
 	const dtElem = document.createElement('dt');
 	dtElem.classList.add(item.cssClass);
 	dtElem.textContent = item.skillName;
